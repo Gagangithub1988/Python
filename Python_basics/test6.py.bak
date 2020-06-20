@@ -1,0 +1,2 @@
+import gaganmath as gm
+print(gm.add(10,20)
